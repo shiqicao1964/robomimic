@@ -1,3 +1,9 @@
+# convert real hdf5 to zarr
+```
+python convert_real_data_to_zarr.py --hdf5_path demo.hdf5 --output_dir data/my_dataset --task_name real_pick --prompt_file data/prompts.txt
+```
+
+
 # robomimic
 
 <p align="center">
